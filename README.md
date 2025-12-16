@@ -9,9 +9,6 @@ I love building scalable systems and learning modern DevOps tools.
 ---
 
 ### 🛠️ Tech Stack
----
-
-### 🛠️ Tech Stack
 
 #### ⚙️ DevOps & Cloud
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -43,34 +40,24 @@ I love building scalable systems and learning modern DevOps tools.
 
 ### 🚀 Featured Projects
 
-🔐 **DevSecure360 – DevSecOps Pipeline**  
-(brief description, what tech used)
+🔐 **DevSecure360 – DevSecOps CI/CD Pipeline**  
+Automated CI pipeline using Jenkins, GitHub, Maven & SonarQube with security checks.
 
 ☁️ **Cloud-Based To-Do List App**  
-(React + Firebase + Node.js)
+React + Firebase application with authentication and cloud-based task management.
 
 🛒 **Sweetshop Backend API**  
-(Node.js + PostgreSQL + JWT)
-
+Secure REST API using Node.js, PostgreSQL & JWT authentication.
 
 ---
-### 📊 GitHub Stats
-
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iriya17&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iriya17&theme=dark)
 
 ### 📚 Currently Learning
-- Terraform for AWS
+- Terraform for AWS (IaC)
 - Kubernetes Basics
-- Cloud Security Practices
+- Cloud Security Best Practices
 
 ---
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/riya-bhanghlia/
 - 📧 Email: riyabhanghlia@gmail.com
-
-
-# Iriya
-
