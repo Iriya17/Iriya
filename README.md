@@ -54,6 +54,9 @@ Secure REST API using Node.js, PostgreSQL & JWT authentication.
 https://github.com/Iriya17/sweetshop-kata-backend
 
 ---
+## 🧩 CI/CD Pipeline Architecture
+
+![Pipeline Diagram](https://github.com/Iriya17/devops-ci-pipeline/blob/main/screenshots/pipeline-diagram.drawio.png)
 
 
 ### 📚 Currently Learning
