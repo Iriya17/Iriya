@@ -42,12 +42,14 @@ I love building scalable systems and learning modern DevOps tools.
 
 🔐 **DevSecure360 – DevSecOps CI/CD Pipeline**  
 Automated CI pipeline using Jenkins, GitHub, Maven & SonarQube with security checks.
+https://github.com/Iriya17/DevSecur360
 
 ☁️ **Cloud-Based To-Do List App**  
 React + Firebase application with authentication and cloud-based task management.
 
 🛒 **Sweetshop Backend API**  
 Secure REST API using Node.js, PostgreSQL & JWT authentication.
+https://github.com/Iriya17/sweetshop-kata-backend
 
 ---
 
@@ -61,3 +63,6 @@ Secure REST API using Node.js, PostgreSQL & JWT authentication.
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/riya-bhanghlia/
 - 📧 Email: riyabhanghlia@gmail.com
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Iriya17&color=blue)
+
