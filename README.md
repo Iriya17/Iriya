@@ -55,5 +55,20 @@ React + Firebase app with cloud storage & authentication.
 🏠 **IoT-Based Smart Home Automation**  
 Cloud-connected IoT system for device automation and monitoring.
 
+---
+
+### 📚 Currently Learning
+- Advanced Jenkins Pipelines
+- Terraform for AWS (IaC)
+- Kubernetes Basics
+- Cloud Security Best Practices
+
+---
+
+### 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/riya-bhanghlia/
+- 📧 Email: riyabhanghlia@gmail.com
+
+
 # Iriya
 
