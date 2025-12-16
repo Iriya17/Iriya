@@ -54,13 +54,7 @@ Secure REST API using Node.js, PostgreSQL & JWT authentication.
 https://github.com/Iriya17/sweetshop-kata-backend
 
 ---
-## 📸 Project Screenshots
 
-### Jenkins CI Pipeline
-![Jenkins Pipeline](screenshots/jenkins-pipeline.png)
-
-### SonarQube Code Analysis
-![SonarQube Report](screenshots/sonarqube-report.png)
 
 ### 📚 Currently Learning
 - Terraform for AWS (IaC)
