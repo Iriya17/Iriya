@@ -31,6 +31,29 @@ I love building scalable systems and learning modern DevOps tools.
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=portswigger&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iriya17&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iriya17&theme=dark)
+
+---
+
+### 🚀 Featured Projects
+
+🔐 **DevSecure360 – DevSecOps CI/CD Pipeline**  
+Automated CI pipeline using Jenkins, GitHub, Maven & SonarQube with security checks.
+
+🛒 **Sweetshop Kata Backend API**  
+Secure REST API using Node.js, PostgreSQL & JWT authentication.
+
+☁️ **Cloud-Based To-Do List App**  
+React + Firebase app with cloud storage & authentication.
+
+🏠 **IoT-Based Smart Home Automation**  
+Cloud-connected IoT system for device automation and monitoring.
 
 # Iriya
 
