@@ -1,4 +1,6 @@
 ## 👋 Hi, I'm Riya!
+![Profile Views](https://komarev.com/ghpvc/?username=Iriya17&color=blue)
+
 
 💻 Aspiring DevOps & Cloud Engineer  
 ☁️ AWS | Docker | Jenkins | Linux  
