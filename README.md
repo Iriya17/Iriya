@@ -66,5 +66,5 @@ https://github.com/Iriya17/sweetshop-kata-backend
 - 💼 LinkedIn: https://www.linkedin.com/in/riya-bhanghlia/
 - 📧 Email: riyabhanghlia@gmail.com
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Iriya17&color=blue)
+  
 
